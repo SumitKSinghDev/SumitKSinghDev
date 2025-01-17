@@ -4,7 +4,7 @@
 
 <!-- Profile Views Section -->
 <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=SumitKSinghDev)(https://git.io/streak-stats"/>
+    <img src="https://komarev.com/ghpvc/?username=SumitKSinghDev3&label=Profile%20views&color=0e75b6&style=flat" alt="SumitKSinghDev" />
 </p>
 
 <!-- About Me Section -->
