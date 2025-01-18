@@ -3,6 +3,9 @@
 ## 💫 About Me:
 Hi there, I'm Sumit! 👋  
 I’m interested in Web Development 👀  
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=SumitKSinghDev&label=Profile%20views&color=0e75b6&style=flat" alt="SumitKSinghDev" />
+</p>
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
